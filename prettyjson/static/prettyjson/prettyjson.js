@@ -26,7 +26,7 @@ $('button.parseraw').click(function(e){
       $(e.target).text('Show raw');
     } else {
       // invalid json
-      window.alert('Enter valid JSON.');
+//       window.alert('Enter valid JSON.');
     }
 
   } else {
